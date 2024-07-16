@@ -1,1 +1,1 @@
-registry.cn-hangzhou.aliyuncs.com/trainning-hh/training
+registry.cn-hangzhou.aliyuncs.com/trainning-hh
